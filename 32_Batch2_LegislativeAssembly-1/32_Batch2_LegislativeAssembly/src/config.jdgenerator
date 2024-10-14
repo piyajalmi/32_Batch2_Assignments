@@ -1,0 +1,58 @@
+==== CONFIGS ====		
+{
+    "base_path": "c:\\Users\\piyaj\\OneDrive\\Desktop\\JAVADOC\\src",
+    "out": "c:\\Users\\piyaj\\OneDrive\\Desktop\\JAVADOC\\src\\javadoc",
+    "javadoc_executable": "C:\\Program Files\\Eclipse Adoptium\\jdk-21.0.3.9-hotspot\\bin\\javadoc.exe",
+    "exclude": [],
+    "raw_params": ""
+}
+
+==== COMMAND ====
+"C:\Program Files\Eclipse Adoptium\jdk-21.0.3.9-hotspot\bin\javadoc.exe" 
+	-sourcepath "c:\Users\piyaj\OneDrive\Desktop\JAVADOC\src" 
+	-d "c:\Users\piyaj\OneDrive\Desktop\JAVADOC\src\javadoc" 
+	"c:\Users\piyaj\OneDrive\Desktop\JAVADOC\src\App.java"
+	"c:\Users\piyaj\OneDrive\Desktop\JAVADOC\src\GoaLegislativeAssembly.java"
+
+
+==== JAVADOC OUTPUT ====
+Loading source file c:\Users\piyaj\OneDrive\Desktop\JAVADOC\src\App.java...
+Loading source file c:\Users\piyaj\OneDrive\Desktop\JAVADOC\src\GoaLegislativeAssembly.java...
+Constructing Javadoc information...
+Creating destination directory: "c:\Users\piyaj\OneDrive\Desktop\JAVADOC\src\javadoc\"
+Building index for all the packages and classes...
+Standard Doclet version 21.0.3+9-LTS
+Building tree for all the packages and classes...
+Generating c:\Users\piyaj\OneDrive\Desktop\JAVADOC\src\javadoc\App.html...
+c:\Users\piyaj\OneDrive\Desktop\JAVADOC\src\App.java:1: warning: no comment
+public class App {
+       ^
+c:\Users\piyaj\OneDrive\Desktop\JAVADOC\src\App.java:1: warning: use of default constructor, which does not provide a comment
+public class App {
+       ^
+c:\Users\piyaj\OneDrive\Desktop\JAVADOC\src\App.java:2: warning: no comment
+    public static void main(String[] args) throws Exception {
+                       ^
+Generating c:\Users\piyaj\OneDrive\Desktop\JAVADOC\src\javadoc\GoaLegislativeAssembly.html...
+c:\Users\piyaj\OneDrive\Desktop\JAVADOC\src\GoaLegislativeAssembly.java:152: warning: no comment
+public class GoaLegislativeAssembly {
+       ^
+c:\Users\piyaj\OneDrive\Desktop\JAVADOC\src\GoaLegislativeAssembly.java:152: warning: use of default constructor, which does not provide a comment
+public class GoaLegislativeAssembly {
+       ^
+c:\Users\piyaj\OneDrive\Desktop\JAVADOC\src\GoaLegislativeAssembly.java:154: warning: no comment
+    public static void main(String[] args) {
+                       ^
+Generating c:\Users\piyaj\OneDrive\Desktop\JAVADOC\src\javadoc\package-summary.html...
+Generating c:\Users\piyaj\OneDrive\Desktop\JAVADOC\src\javadoc\package-tree.html...
+Generating c:\Users\piyaj\OneDrive\Desktop\JAVADOC\src\javadoc\overview-tree.html...
+Building index for all classes...
+Generating c:\Users\piyaj\OneDrive\Desktop\JAVADOC\src\javadoc\allclasses-index.html...
+Generating c:\Users\piyaj\OneDrive\Desktop\JAVADOC\src\javadoc\allpackages-index.html...
+Generating c:\Users\piyaj\OneDrive\Desktop\JAVADOC\src\javadoc\index-all.html...
+Generating c:\Users\piyaj\OneDrive\Desktop\JAVADOC\src\javadoc\search.html...
+Generating c:\Users\piyaj\OneDrive\Desktop\JAVADOC\src\javadoc\index.html...
+Generating c:\Users\piyaj\OneDrive\Desktop\JAVADOC\src\javadoc\help-doc.html...
+6 warnings
+
+
